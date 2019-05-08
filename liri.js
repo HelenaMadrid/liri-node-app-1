@@ -24,6 +24,8 @@ var value = process.argv[3];
 processCommand(type, value);
 
 function processCommand(commandToExecute, valueToExecute) {
+    var executed = commandToExecute + " " + valueToExecute+"\n";
+    appendFile("log.txt", executed);
     switch (commandToExecute) {
         case "concert-this":
             concertInfo(valueToExecute);
@@ -149,7 +151,6 @@ function printMovieInfo(data) {
 function readFile(filename) {
     fs.readFile(filename, "utf8", function (error, data) {
 
-        // If the code experiences any errors it will log the error to the console.
         if (error) {
             return console.log(error);
         }
@@ -159,4 +160,17 @@ function readFile(filename) {
 
     }
     )
+}
+
+function appendFile(filename, textToAppend){
+    fs.appendFile(filename, textToAppend, function(err) {
+
+        if (err) {
+          console.log(err);
+        }
+      
+        else {
+          console.log("Content Added!");
+        }
+      });
 }
