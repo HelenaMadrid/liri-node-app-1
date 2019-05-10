@@ -29,7 +29,7 @@ You can use the following commands:
 
 ## Working proof
 
-* Inline-style: 
+* See it in action gif: 
 ![alt text](https://github.com/darkyer/liri-node-app/blob/master/proof.gif "Proof Gif")
 
 ## Authors
