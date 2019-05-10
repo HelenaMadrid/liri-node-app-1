@@ -24,8 +24,8 @@ var value = process.argv[3];
 processCommand(type, value);
 
 function processCommand(commandToExecute, valueToExecute) {
-    var executed = commandToExecute + " " + valueToExecute+"\n";
-    appendFile("log.txt", executed);
+    var executed = commandToExecute + " " + valueToExecute + "\n";
+    appendFile("log.txt", "Command executed: "+ executed +"\nRESULT****************\n");
     switch (commandToExecute) {
         case "concert-this":
             concertInfo(valueToExecute);
@@ -74,8 +74,7 @@ function movieInfo(valueToExecute) {
 
     axios.get("http://www.omdbapi.com/?apikey=trilogy&t=" + valueToExecute)
         .then(function (response) {
-            // printMovieInfo(response.data);
-            console.log(response.data);
+            printMovieInfo(response.data);
         })
         .catch(function (error) {
             console.log(error);
@@ -95,6 +94,12 @@ function printBandData(data, searchValue) {
             + "\nLocation: " + location
             + "\nDate: " + date);
         console.log("------------------------------");
+
+        appendFile("log.txt", "Search: " + search
+            + "\nName: " + name
+            + "\nLocation: " + location
+            + "\nDate: " + date
+            + "\n------------------------------\n");
     }
 }
 
@@ -115,6 +120,12 @@ function printSpotifyData(data) {
             + "\nAlbum: " + album
             + "\nPreview: " + preview);
         console.log("------------------------------");
+
+        appendFile("log.txt", "Artist: " + artist
+            + "\nSong: " + song
+            + "\nAlbum: " + album
+            + "\nPreview: " + preview
+            + "\n------------------------------\n");
     }
 }
 
@@ -146,6 +157,16 @@ function printMovieInfo(data) {
         + "\nPlot: " + plot
         + "\nActors: " + actors);
     console.log("------------------------------");
+
+    appendFile("log.txt", "Title: " + title
+        + "\nYear: " + year
+        + "\nIMDB Rating: " + rateIMDB
+        + "\nRotten Tomatoes Rating: " + rateRotten
+        + "\nCountry: " + country
+        + "\nLanguage: " + language
+        + "\nPlot: " + plot
+        + "\nActors: " + actors
+        + "\n------------------------------\n");
 }
 
 function readFile(filename) {
@@ -162,15 +183,11 @@ function readFile(filename) {
     )
 }
 
-function appendFile(filename, textToAppend){
-    fs.appendFile(filename, textToAppend, function(err) {
+function appendFile(filename, textToAppend) {
+    fs.appendFile(filename, textToAppend, function (err) {
 
         if (err) {
-          console.log(err);
+            console.log(err);
         }
-      
-        else {
-          console.log("Content Added!");
-        }
-      });
+    });
 }

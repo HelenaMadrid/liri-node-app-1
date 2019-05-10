@@ -1,5 +1,1041 @@
-spotify-this-song zombie hyperdrive
-spotify-this-song santana
-concert-this gorillaz
-concert-this madonna
-concert-this lady gaga
+Command executed: spotify-this-song lazerhawk
+
+RESULT****************
+Artist: Lazerhawk
+Song: Overdrive
+Album: Redline
+Preview: https://p.scdn.co/mp3-preview/6d219ab95d3b77b69df4b06d457587aa0e719a6b?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Electric Groove
+Album: Redline
+Preview: https://p.scdn.co/mp3-preview/5f67cba8b7c6c6aa0610e76dcd09700560c53f30?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: King of the Streets
+Album: Skull and Shark
+Preview: https://p.scdn.co/mp3-preview/306d9fdb1d3c6e3e48aa890287ca6daed3b3a26e?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Hypnic
+Album: Dreamrider
+Preview: https://p.scdn.co/mp3-preview/940be7ed894530d9b285c717935f00f665e98614?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: So Far Away
+Album: Visitors
+Preview: https://p.scdn.co/mp3-preview/7678954973b54709245e6d145a7ccec969bf1f4e?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Star Hustler
+Album: Visitors
+Preview: https://p.scdn.co/mp3-preview/91c999ad643822529a763667e0c77e5a99aab992?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Redline
+Album: Redline
+Preview: https://p.scdn.co/mp3-preview/fd686c0a603a9476a6961fadc7210c65168c1d18?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Shoulder of Orion
+Album: Visitors
+Preview: https://p.scdn.co/mp3-preview/6a20996399dbbd717cb7098901d76a62c3b7e5c1?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Feel the Rush Tonight
+Album: Dreamrider
+Preview: https://p.scdn.co/mp3-preview/f880c53536cd00bd0a705200c7ac8eaf7a25f3ff?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Arrival
+Album: Visitors
+Preview: https://p.scdn.co/mp3-preview/c20ae840785652c316d1cf12da528e3b56cbd964?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Distress Signal
+Album: Redline
+Preview: https://p.scdn.co/mp3-preview/8caac5057d8f650500493ae89a08d67fbb35d227?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Visitors
+Album: Visitors
+Preview: https://p.scdn.co/mp3-preview/385931ad40edf4755e685cc651dfeca61a5161ba?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Neon Dawn
+Album: Dreamrider
+Preview: https://p.scdn.co/mp3-preview/ad6cb901ab0cf20a1f148ad8f79025352631ec11?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Dream Machine
+Album: Redline
+Preview: https://p.scdn.co/mp3-preview/a2d7de2d9e6d8fa0f099e7fda5db1ade0c7eed47?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Pedal to the Metal
+Album: Redline
+Preview: https://p.scdn.co/mp3-preview/f31e95bd552060b5776f5b6a1cdddb66c9783b52?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Cool Breeze
+Album: Dreamrider
+Preview: https://p.scdn.co/mp3-preview/710f77db3bf6281449f882686ecb8f29ef1f35d6?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: So Close
+Album: Redline
+Preview: https://p.scdn.co/mp3-preview/55210c86709d7fded05aa40e44f65e209fa0c3c8?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Somnus
+Album: Dreamrider
+Preview: https://p.scdn.co/mp3-preview/eb2fbe08d0f11cff419c8b791a11d968ea7c0616?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Space Is the Place
+Album: Visitors
+Preview: https://p.scdn.co/mp3-preview/a0096dee8ffba4e0e13e51050f7b9fc772ed8c2a?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Interstellar
+Album: Redline
+Preview: https://p.scdn.co/mp3-preview/020b88252369144fac9ec1fb5f88ca487152723a?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Command executed: concert-this metallica
+
+RESULT****************
+Search: metallica
+Name: Stadion Letzigrund
+Location: Zürich, Switzerland
+Date: 05-10-2019
+------------------------------
+Search: metallica
+Name: Stade de France
+Location: Paris, France
+Date: 05-12-2019
+------------------------------
+Search: metallica
+Name: SLANE CASTLE
+Location: Co. Meath, Ireland
+Date: 06-08-2019
+------------------------------
+Search: metallica
+Name: Johan Cruijff ArenA
+Location: Amsterdam, Netherlands
+Date: 06-11-2019
+------------------------------
+Search: metallica
+Name: RheinEnergieSTADION
+Location: Köln, Germany
+Date: 06-13-2019
+------------------------------
+Search: metallica
+Name: King Baudouin Stadium
+Location: Bruxelles, Belgium
+Date: 06-16-2019
+------------------------------
+Search: metallica
+Name: Etihad Stadium
+Location: Manchester, United Kingdom
+Date: 06-18-2019
+------------------------------
+Search: metallica
+Name: Twickenham Stadium
+Location: London, United Kingdom
+Date: 06-20-2019
+------------------------------
+Search: metallica
+Name: Olympiastadion
+Location: Berlin, Germany
+Date: 07-06-2019
+------------------------------
+Search: metallica
+Name: Ullevi Restaurant & Conference
+Location: Göteborg, Sweden
+Date: 07-09-2019
+------------------------------
+Search: metallica
+Name: Parken Kopenhagen
+Location: Copenhagen, Denmark
+Date: 07-11-2019
+------------------------------
+Search: metallica
+Name: Granasen Arena
+Location: Trondheim, Norway
+Date: 07-13-2019
+------------------------------
+Search: metallica
+Name: KANTOLAN TAPAHTUMAPUISTO
+Location: Hameenlinna, Finland
+Date: 07-16-2019
+------------------------------
+Search: metallica
+Name: Raadi lennuväli
+Location: Tartu, Estonia
+Date: 07-18-2019
+------------------------------
+Search: metallica
+Name: The Luzhniki Stadium
+Location: Moscow, Russia
+Date: 07-21-2019
+------------------------------
+Search: metallica
+Name: National Stadion Bukarest
+Location: Bucharest, Romania
+Date: 08-14-2019
+------------------------------
+Search: metallica
+Name: Ernst-Happel-Stadion
+Location: Wien, Austria
+Date: 08-16-2019
+------------------------------
+Search: metallica
+Name: Letiště Praha Letňany
+Location: Praha, Czech Republic
+Date: 08-18-2019
+------------------------------
+Search: metallica
+Name: PGE Narodowy
+Location: Warsaw, Poland
+Date: 08-21-2019
+------------------------------
+Search: metallica
+Name: Olympiastadion
+Location: Munchen, Germany
+Date: 08-23-2019
+------------------------------
+Search: metallica
+Name: Maimarktgelände
+Location: Mannheim, Germany
+Date: 08-25-2019
+------------------------------
+Search: metallica
+Name: Chase Center
+Location: San Francisco, United States
+Date: 09-06-2019
+------------------------------
+Search: metallica
+Name: Chase Center
+Location: San Francisco, United States
+Date: 09-08-2019
+------------------------------
+Search: metallica
+Name: Adelaide Oval
+Location: North Adelaide, Australia
+Date: 10-20-2019
+------------------------------
+Search: metallica
+Name: Optus Stadium
+Location: Burswood, Australia
+Date: 10-17-2019
+------------------------------
+Search: metallica
+Name: Marvel Stadium
+Location: Docklands, Australia
+Date: 10-22-2019
+------------------------------
+Search: metallica
+Name: Marvel Stadium
+Location: Docklands, Australia
+Date: 10-24-2019
+------------------------------
+Search: metallica
+Name: ANZ Stadium
+Location: Sydney Olympic Park, Australia
+Date: 10-26-2019
+------------------------------
+Search: metallica
+Name: Queensland Sport And Athletics Centre (QSAC)
+Location: Brisbane, Australia
+Date: 10-29-2019
+------------------------------
+Search: metallica
+Name: Mt Smart Stadium
+Location: Auckland, New Zealand
+Date: 10-31-2019
+------------------------------
+Search: metallica
+Name: Mt Smart Stadium
+Location: Auckland, New Zealand
+Date: 11-02-2019
+------------------------------
+Command executed: spotify-this-song lazerhawk
+
+RESULT****************
+Artist: Lazerhawk
+Song: Overdrive
+Album: Redline
+Preview: https://p.scdn.co/mp3-preview/6d219ab95d3b77b69df4b06d457587aa0e719a6b?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Electric Groove
+Album: Redline
+Preview: https://p.scdn.co/mp3-preview/5f67cba8b7c6c6aa0610e76dcd09700560c53f30?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: King of the Streets
+Album: Skull and Shark
+Preview: https://p.scdn.co/mp3-preview/306d9fdb1d3c6e3e48aa890287ca6daed3b3a26e?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Hypnic
+Album: Dreamrider
+Preview: https://p.scdn.co/mp3-preview/940be7ed894530d9b285c717935f00f665e98614?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: So Far Away
+Album: Visitors
+Preview: https://p.scdn.co/mp3-preview/7678954973b54709245e6d145a7ccec969bf1f4e?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Star Hustler
+Album: Visitors
+Preview: https://p.scdn.co/mp3-preview/91c999ad643822529a763667e0c77e5a99aab992?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Shoulder of Orion
+Album: Visitors
+Preview: https://p.scdn.co/mp3-preview/6a20996399dbbd717cb7098901d76a62c3b7e5c1?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Feel the Rush Tonight
+Album: Dreamrider
+Preview: https://p.scdn.co/mp3-preview/f880c53536cd00bd0a705200c7ac8eaf7a25f3ff?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Distress Signal
+Album: Redline
+Preview: https://p.scdn.co/mp3-preview/8caac5057d8f650500493ae89a08d67fbb35d227?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Arrival
+Album: Visitors
+Preview: https://p.scdn.co/mp3-preview/c20ae840785652c316d1cf12da528e3b56cbd964?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Neon Dawn
+Album: Dreamrider
+Preview: https://p.scdn.co/mp3-preview/ad6cb901ab0cf20a1f148ad8f79025352631ec11?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Dream Machine
+Album: Redline
+Preview: https://p.scdn.co/mp3-preview/a2d7de2d9e6d8fa0f099e7fda5db1ade0c7eed47?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Visitors
+Album: Visitors
+Preview: https://p.scdn.co/mp3-preview/385931ad40edf4755e685cc651dfeca61a5161ba?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Cool Breeze
+Album: Dreamrider
+Preview: https://p.scdn.co/mp3-preview/710f77db3bf6281449f882686ecb8f29ef1f35d6?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Pedal to the Metal
+Album: Redline
+Preview: https://p.scdn.co/mp3-preview/f31e95bd552060b5776f5b6a1cdddb66c9783b52?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: So Close
+Album: Redline
+Preview: https://p.scdn.co/mp3-preview/55210c86709d7fded05aa40e44f65e209fa0c3c8?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Somnus
+Album: Dreamrider
+Preview: https://p.scdn.co/mp3-preview/eb2fbe08d0f11cff419c8b791a11d968ea7c0616?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Interstellar
+Album: Redline
+Preview: https://p.scdn.co/mp3-preview/020b88252369144fac9ec1fb5f88ca487152723a?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Space Is the Place
+Album: Visitors
+Preview: https://p.scdn.co/mp3-preview/a0096dee8ffba4e0e13e51050f7b9fc772ed8c2a?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lazerhawk
+Song: Redline
+Album: Redline
+Preview: https://p.scdn.co/mp3-preview/fd686c0a603a9476a6961fadc7210c65168c1d18?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Command executed: concert-this metallica
+
+RESULT****************
+Search: metallica
+Name: Stade de France
+Location: Paris, France
+Date: 05-12-2019
+------------------------------
+Search: metallica
+Name: SLANE CASTLE
+Location: Co. Meath, Ireland
+Date: 06-08-2019
+------------------------------
+Search: metallica
+Name: Johan Cruijff ArenA
+Location: Amsterdam, Netherlands
+Date: 06-11-2019
+------------------------------
+Search: metallica
+Name: Etihad Stadium
+Location: Manchester, United Kingdom
+Date: 06-18-2019
+------------------------------
+Search: metallica
+Name: Olympiastadion
+Location: Berlin, Germany
+Date: 07-06-2019
+------------------------------
+Search: metallica
+Name: Twickenham Stadium
+Location: London, United Kingdom
+Date: 06-20-2019
+------------------------------
+Search: metallica
+Name: Ullevi Restaurant & Conference
+Location: Göteborg, Sweden
+Date: 07-09-2019
+------------------------------
+Search: metallica
+Name: Parken Kopenhagen
+Location: Copenhagen, Denmark
+Date: 07-11-2019
+------------------------------
+Search: metallica
+Name: Granasen Arena
+Location: Trondheim, Norway
+Date: 07-13-2019
+------------------------------
+Search: metallica
+Name: KANTOLAN TAPAHTUMAPUISTO
+Location: Hameenlinna, Finland
+Date: 07-16-2019
+------------------------------
+Search: metallica
+Name: Raadi lennuväli
+Location: Tartu, Estonia
+Date: 07-18-2019
+------------------------------
+Search: metallica
+Name: The Luzhniki Stadium
+Location: Moscow, Russia
+Date: 07-21-2019
+------------------------------
+Search: metallica
+Name: National Stadion Bukarest
+Location: Bucharest, Romania
+Date: 08-14-2019
+------------------------------
+Search: metallica
+Name: Ernst-Happel-Stadion
+Location: Wien, Austria
+Date: 08-16-2019
+------------------------------
+Search: metallica
+Name: Letiště Praha Letňany
+Location: Praha, Czech Republic
+Date: 08-18-2019
+------------------------------
+Search: metallica
+Name: PGE Narodowy
+Location: Warsaw, Poland
+Date: 08-21-2019
+------------------------------
+Search: metallica
+Name: Olympiastadion
+Location: Munchen, Germany
+Date: 08-23-2019
+------------------------------
+Search: metallica
+Name: Maimarktgelände
+Location: Mannheim, Germany
+Date: 08-25-2019
+------------------------------
+Search: metallica
+Name: Chase Center
+Location: San Francisco, United States
+Date: 09-06-2019
+------------------------------
+Search: metallica
+Name: Chase Center
+Location: San Francisco, United States
+Date: 09-08-2019
+------------------------------
+Search: metallica
+Name: Optus Stadium
+Location: Burswood, Australia
+Date: 10-17-2019
+------------------------------
+Search: metallica
+Name: Adelaide Oval
+Location: North Adelaide, Australia
+Date: 10-20-2019
+------------------------------
+Search: metallica
+Name: Marvel Stadium
+Location: Docklands, Australia
+Date: 10-22-2019
+------------------------------
+Search: metallica
+Name: Marvel Stadium
+Location: Docklands, Australia
+Date: 10-24-2019
+------------------------------
+Search: metallica
+Name: ANZ Stadium
+Location: Sydney Olympic Park, Australia
+Date: 10-26-2019
+------------------------------
+Search: metallica
+Name: Queensland Sport And Athletics Centre (QSAC)
+Location: Brisbane, Australia
+Date: 10-29-2019
+------------------------------
+Search: metallica
+Name: Mt Smart Stadium
+Location: Auckland, New Zealand
+Date: 10-31-2019
+------------------------------
+Search: metallica
+Name: Mt Smart Stadium
+Location: Auckland, New Zealand
+Date: 11-02-2019
+------------------------------
+Search: metallica
+Name: RheinEnergieSTADION
+Location: Köln, Germany
+Date: 06-13-2019
+------------------------------
+Search: metallica
+Name: King Baudouin Stadium
+Location: Bruxelles, Belgium
+Date: 06-16-2019
+------------------------------
+Command executed: movie-this matrix
+
+RESULT****************
+Title: Matrix
+Year: 1993–
+IMDB Rating: 8.2
+Rotten Tomatoes Rating: Not available.
+Country: Canada
+Language: English
+Plot: Steven Matrix is one of the underworld's foremost hitmen until his luck runs out, and someone puts a contract out on him. Shot in the forehead by a .22 pistol, Matrix "dies" and finds ...
+Actors: Nick Mancuso, Phillip Jarrett, Carrie-Anne Moss, John Vernon
+------------------------------
+Command executed: do-what-it-says undefined
+
+RESULT****************
+Command executed: spotify-this-song "I Want it That Way"
+
+RESULT****************
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: Millennium
+Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Anthem Lights
+Song: I Want It That Way
+Album: Covers Part IV
+Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Mick Jensen
+Song: I Want It That Way
+Album: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Jess and Gabriel
+Song: I Want It That Way
+Album: Under the Covers, Vol. 3
+Preview: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: "Weird Al" Yankovic
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album: Poodle Hat
+Preview: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Tyler and Mark
+Song: I Want It That Way
+Album: Beautiful Dreams
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: 90 Sweet 90s Hits!
+Preview: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: NKOTBSB
+Preview: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Glee Cast
+Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Boyce Avenue
+Song: I Want It That Way
+Album: Cover Sessions, Vol. 2
+Preview: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Manuel Costa
+Song: I Want It That Way
+Album: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Steel Panther
+Song: I Want It That Way
+Album: I Want It That Way
+Preview: No preview available.
+------------------------------
+Artist: Scary Pockets
+Song: I Want It That Way
+Album: Nu Funk
+Preview: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Scott Bradlee's Postmodern Jukebox
+Song: I Want It That Way
+Album: Selfies on Kodachrome
+Preview: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Yshop
+Song: I Want It That Way
+Album: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: "Weird Al" Yankovic
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album: The Essential "Weird Al" Yankovic
+Preview: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Kidz Bop Kids
+Song: I Want It That Way
+Album: Kidz Bop
+Preview: No preview available.
+------------------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: NOW That's What I Call 90s Pop
+Preview: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: #90s Update
+Song: I Want It That Way
+Album: #90s Update
+Preview: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Command executed: concert-this lady gaga
+
+RESULT****************
+Search: lady gaga
+Name: LADY GAGA ENIGMA
+Location: Las Vegas, United States
+Date: 05-30-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA ENIGMA
+Location: Las Vegas, United States
+Date: 06-01-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 1 and June 2)
+Location: Las Vegas, United States
+Date: 06-02-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA JAZZ & PIANO
+Location: Las Vegas, United States
+Date: 06-02-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA ENIGMA
+Location: Las Vegas, United States
+Date: 06-06-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA ENIGMA
+Location: Las Vegas, United States
+Date: 06-08-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA JAZZ & PIANO
+Location: Las Vegas, United States
+Date: 06-09-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 8 and June 9)
+Location: Las Vegas, United States
+Date: 06-09-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA ENIGMA
+Location: Las Vegas, United States
+Date: 06-12-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA ENIGMA
+Location: Las Vegas, United States
+Date: 06-14-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA JAZZ & PIANO
+Location: Las Vegas, United States
+Date: 06-15-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 14 and June 15)
+Location: Las Vegas, United States
+Date: 06-15-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA ENIGMA
+Location: Las Vegas, United States
+Date: 10-17-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA ENIGMA
+Location: Las Vegas, United States
+Date: 10-19-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA JAZZ & PIANO
+Location: Las Vegas, United States
+Date: 10-20-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 19 and October 20)
+Location: Las Vegas, United States
+Date: 10-20-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA ENIGMA
+Location: Las Vegas, United States
+Date: 10-23-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA ENIGMA
+Location: Las Vegas, United States
+Date: 10-25-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA JAZZ & PIANO
+Location: Las Vegas, United States
+Date: 10-26-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 25 and October 26)
+Location: Las Vegas, United States
+Date: 10-26-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA ENIGMA
+Location: Las Vegas, United States
+Date: 10-31-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA ENIGMA
+Location: Las Vegas, United States
+Date: 11-02-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA JAZZ & PIANO
+Location: Las Vegas, United States
+Date: 11-03-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 2 and November 3)
+Location: Las Vegas, United States
+Date: 11-03-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA ENIGMA
+Location: Las Vegas, United States
+Date: 11-06-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA ENIGMA
+Location: Las Vegas, United States
+Date: 11-08-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA JAZZ & PIANO
+Location: Las Vegas, United States
+Date: 11-09-2019
+------------------------------
+Search: lady gaga
+Name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 8 and November 9)
+Location: Las Vegas, United States
+Date: 11-09-2019
+------------------------------
+Command executed: spotify-this-song nothing else matters
+
+RESULT****************
+Artist: Metallica
+Song: Nothing Else Matters
+Album: Metallica
+Preview: https://p.scdn.co/mp3-preview/a2a9c13416fc981d035e75f16ec63b0d8e6486ba?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Little Mix
+Song: Nothing Else Matters
+Album: Glory Days: The Platinum Edition
+Preview: https://p.scdn.co/mp3-preview/86fdb759305251d9683f78aa7a2cbb55de62b61a?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Metallica
+Song: Nothing Else Matters - Live with the SFSO
+Album: S&M
+Preview: https://p.scdn.co/mp3-preview/7bc6cef42a377be8ad38bd455478318999435b55?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Metallica
+Song: Nothing Else Matters (Live)
+Album: Metallica Through The Never (Music from the Motion Picture)
+Preview: https://p.scdn.co/mp3-preview/50794dabd7367b02a3521ea53ea0dd4b352efabc?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Smith & Myers
+Song: Nothing Else Matters
+Album: (Acoustic Sessions)
+Preview: https://p.scdn.co/mp3-preview/f2218ebc67c22aafa6e7914eb1e5170039bcd1cd?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: William Joseph
+Song: Nothing Else Matters
+Album: Nothing Else Matters
+Preview: https://p.scdn.co/mp3-preview/5a987b17c53a43b5e4d87c43b5f99cc08a40f0c1?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Alison G and Friends
+Song: Nothing Else Matters
+Album: Evergreens
+Preview: https://p.scdn.co/mp3-preview/2d8045dfa556ea46d4012d1d2b44ac173140254d?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Tink
+Song: Nothing Else Matters 2
+Album: Winter's Diary 4
+Preview: https://p.scdn.co/mp3-preview/c656004267952eab976fde4516c8e1ec0f68dafe?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Lissie
+Song: Nothing Else Matters
+Album: Covered up with Flowers
+Preview: https://p.scdn.co/mp3-preview/1d243708bc3933f31b84357ccbafb3e913133212?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Apocalyptica
+Song: Nothing Else Matters - Live
+Album: Plays Metallica by Four Cellos - a Live Performance
+Preview: https://p.scdn.co/mp3-preview/67a0f1372d91aee8802c45a9b97d43b8a51da5e1?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Sungha Jung
+Song: Nothing Else Matters
+Album: Sungha Jung Cover Compilation 4
+Preview: https://p.scdn.co/mp3-preview/38c0177b7419393f0cfa5014e146d872c031ffda?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Teenage Bottlerocket
+Song: Nothing Else Matters (When I'm With You)
+Album: Tales From Wyoming
+Preview: https://p.scdn.co/mp3-preview/13693565e588a9543557790037dea983d848de46?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Metallica
+Song: Nothing Else Matters (Live at The Masonic, San Francisco, CA - November 3rd, 2018)
+Album: Helping Hands...Live & Acoustic at The Masonic
+Preview: https://p.scdn.co/mp3-preview/dcafd75f23d7373f30edccad4511dbcbd4ad520a?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Brooklyn Duo
+Song: Nothing Else Matters
+Album: Brooklyn Sessions II
+Preview: https://p.scdn.co/mp3-preview/7ef7985fbf92ab6aeb35bbc91ee5ce752817c04d?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Kura
+Song: Nothing Else Matters
+Album: Nothing Else Matters
+Preview: https://p.scdn.co/mp3-preview/55ac21c2ac6ffe4da3075a8a53e810e0bbe00fc6?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Apocalyptica
+Song: Nothing Else Matters (Bonus Track)
+Album: Plays Metallica by Four Cellos (Remastered)
+Preview: https://p.scdn.co/mp3-preview/1b9cc978f620ea41bf149080154ce1fee70cc52d?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Marvin Sapp
+Song: Nothing Else Matters
+Album: Nothing Else Matters
+Preview: https://p.scdn.co/mp3-preview/f7bc8cce1612fac236af70dbe633c151ef7e8b34?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Scott Bradlee's Postmodern Jukebox
+Song: Nothing Else Matters
+Album: Fake Blues
+Preview: https://p.scdn.co/mp3-preview/9eaad853449f6e7518b10c63accde6146b3502fa?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Rockabye Baby!
+Song: Nothing Else Matters
+Album: Lullaby Renditions of Metallica
+Preview: https://p.scdn.co/mp3-preview/2c63d04fb631fdeb4d9f5e8e564a729312838a12?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Godsmack
+Song: Nothing Else Matters - Live From Fox Theatre Detroit, MI/2012
+Album: Live & Inspired
+Preview: No preview available.
+------------------------------
+Command executed: movie-this forest gump
+
+RESULT****************
+Command executed: movie-this forset
+
+RESULT****************
+Command executed: movie-this matrix
+
+RESULT****************
+Title: Matrix
+Year: 1993–
+IMDB Rating: 8.2
+Rotten Tomatoes Rating: Not available.
+Country: Canada
+Language: English
+Plot: Steven Matrix is one of the underworld's foremost hitmen until his luck runs out, and someone puts a contract out on him. Shot in the forehead by a .22 pistol, Matrix "dies" and finds ...
+Actors: Nick Mancuso, Phillip Jarrett, Carrie-Anne Moss, John Vernon
+------------------------------
+Command executed: movie-this terminator
+
+RESULT****************
+Title: Terminator
+Year: 1991
+IMDB Rating: 6.2
+Rotten Tomatoes Rating: Not available.
+Country: USA
+Language: English
+Plot: A cyborg comes from the future, to kill a girl named Sarah Lee.
+Actors: Loris Basso, James Callahan, Debbie Medows, Michelle Kovach
+------------------------------
+Command executed: movie-this terminator 2
+
+RESULT****************
+Title: Terminator 2: Judgment Day
+Year: 1991
+IMDB Rating: 8.5
+Rotten Tomatoes Rating: 93%
+Country: USA
+Language: English, Spanish
+Plot: A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg.
+Actors: Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick
+------------------------------
+Command executed: movie-this forrest gump
+
+RESULT****************
+Title: Forrest Gump
+Year: 1994
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 72%
+Country: USA
+Language: English
+Plot: The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.
+Actors: Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys
+------------------------------
+Command executed: do-what-it-says undefined
+
+RESULT****************
+Command executed: spotify-this-song "I Want it That Way"
+
+RESULT****************
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: Millennium
+Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Anthem Lights
+Song: I Want It That Way
+Album: Covers Part IV
+Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Jess and Gabriel
+Song: I Want It That Way
+Album: Under the Covers, Vol. 3
+Preview: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Mick Jensen
+Song: I Want It That Way
+Album: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Tyler and Mark
+Song: I Want It That Way
+Album: Beautiful Dreams
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: 90 Sweet 90s Hits!
+Preview: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: "Weird Al" Yankovic
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album: Poodle Hat
+Preview: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: NKOTBSB
+Preview: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Steel Panther
+Song: I Want It That Way
+Album: I Want It That Way
+Preview: No preview available.
+------------------------------
+Artist: Glee Cast
+Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Manuel Costa
+Song: I Want It That Way
+Album: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Boyce Avenue
+Song: I Want It That Way
+Album: Cover Sessions, Vol. 2
+Preview: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Scary Pockets
+Song: I Want It That Way
+Album: Nu Funk
+Preview: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Yshop
+Song: I Want It That Way
+Album: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Scott Bradlee's Postmodern Jukebox
+Song: I Want It That Way
+Album: Selfies on Kodachrome
+Preview: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: "Weird Al" Yankovic
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album: The Essential "Weird Al" Yankovic
+Preview: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: NOW That's What I Call 90s Pop
+Preview: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
+Artist: Kidz Bop Kids
+Song: I Want It That Way
+Album: Kidz Bop
+Preview: No preview available.
+------------------------------
+Artist: #90s Update
+Song: I Want It That Way
+Album: #90s Update
+Preview: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=7bb3cc64378b499cb7c0c7db9ccea9c4
+------------------------------
